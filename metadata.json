@@ -1,0 +1,6 @@
+{
+  "name": "PSP Image",
+  "description": "PSP Image - A premium AI-powered image generation platform featuring prompt enhancement, download, filtering, and modern futuristic designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
